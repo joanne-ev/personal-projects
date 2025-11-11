@@ -1,6 +1,4 @@
-# 🎮 Video Games Sales Data
-
-Category: Retail
+# 🎮 Video Games Sales
 
 Analyse the sales of video games on multiple platforms and sold in different parts of the world.
 
