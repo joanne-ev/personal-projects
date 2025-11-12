@@ -44,10 +44,20 @@ This repository is where I store all my data analytics, machine learning and dee
     <summary><b>🎮 Video Game Sales Analysis</b></summary>
     <ul>
         <li>Industry: Gaming</li>
-        <li>Method: Analysis classification</li>
+        <li>Method: Analysis</li>
         <li>Langauge: Python</li>
         <li>Core packages: Scikit-Learn, NumPy, Pandas, Matplotlib, Seaborn</li>
         <li>Data source: <a href="https://www.kaggle.com/datasets/gregorut/videogamesales">https://www.kaggle.com/datasets/gregorut/videogamesales</a></li>
     </ul>
 </details>
 
+<details>
+    <summary><b>🌏 Gross Domestic Product Analysis</b></summary>
+    <ul>
+        <li>Industry: Finance</li>
+        <li>Method: Analysis</li>
+        <li>Langauge: Python</li>
+        <li>Core packages: Scikit-Learn, NumPy, Polars, Matplotlib, Seaborn</li>
+        <li>Data source: <a href="https://datahub.io/core/gdp">https://datahub.io/core/gdp</a></li>
+    </ul>
+</details>
