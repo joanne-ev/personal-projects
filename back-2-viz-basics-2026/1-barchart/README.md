@@ -1,6 +1,7 @@
-# Week 1 - Build a Bar Chart
+# 📊 Week 1 - Build a Bar Chart
 
 Link: <https://data.world/back2vizbasics/2026week-1-build-a-bar-chart>
+--- 
 
 ## Description
 
