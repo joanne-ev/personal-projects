@@ -5,15 +5,37 @@ This repository is where I store all my data analytics, machine learning and dee
 ## Table of Contents
 
 <details>
-    <summary><b>🐱 Animal Faces Classification</b></summary>
+    <summary><b>🎨 Back 2 Viz Basics 2026 Challenge</b></summary>
     <ul>
-        <li>Industry: Zoology</li>
+        <li>Industry: Business Intelligence</li>
+        <li>Method: Data visualisation</li>
+        <li>Software: Tableau</li>
+        <li>Website: <a href="https://www.thetableaustudentguide.com/vizbasics">https://www.thetableaustudentguide.com/vizbasics</a></li>
+    </ul>
+</details>
+
+
+<details>
+    <summary><b>🧠 Brain Tumour Classification</b></summary>
+    <ul>
+        <li>Industry: Medicine</li>
         <li>Method: Image classification</li>
         <li>Langauge: Python</li>
         <li>Core packages: PyTorch, Scikit-Learn, Pandas, Matplotlib</li>
-        <li>Data source: <a href="https://www.kaggle.com/datasets/andrewmvd/animal-faces">https://www.kaggle.com/datasets/andrewmvd/animal-faces</a></li>
+        <li>Data source: <a href="https://www.kaggle.com/datasets/denizkavi1/brain-tumor">https://www.kaggle.com/datasets/denizkavi1/brain-tumor</a></li>
     </ul>
 </details>
+
+
+
+<details>
+    <summary><b>💻 Cybersecurity Attitudes and Behaviours Report 2022, 2023</b></summary>
+    <ul>
+        <li>Industry: Cybersecurity, Cyberpsychology</li>
+        <li>Software: SPSS, Microsoft Excel, Google Sheets</li>
+    </ul>
+</details>
+
 
 
 <details>
@@ -39,17 +61,6 @@ This repository is where I store all my data analytics, machine learning and dee
     </ul>
 </details>
 
-
-<details>
-    <summary><b>🍚 Rice Type Classification</b></summary>
-    <ul>
-        <li>Industry: Agriculture</li>
-        <li>Method: Image classification</li>
-        <li>Langauge: Python</li>
-        <li>Core packages: PyTorch, Scikit-Learn, NumPy, Pandas, Matplotlib</li>
-        <li>Data source: <a href="https://www.kaggle.com/datasets/mssmartypants/rice-type-classification">https://www.kaggle.com/datasets/mssmartypants/rice-type-classification</a></li>
-    </ul>
-</details>
 
 
 <details>
