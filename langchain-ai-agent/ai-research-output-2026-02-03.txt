@@ -1,0 +1,32 @@
+--- Research Entry: 2026-02-03 ---
+# Research Report: Why is the Sky Blue?
+
+## 1. The Primary Mechanism: Rayleigh Scattering
+The sky appears blue due to a phenomenon called **Rayleigh scattering**, named after the British physicist Lord Rayleigh, who explained it in the 1870s. 
+
+Rayleigh scattering occurs when sunlight (which contains all the colors of the rainbow) enters Earth's atmosphere and interacts with gas molecules (primarily nitrogen and oxygen). These molecules are much smaller than the wavelength of visible light.
+
+## 2. The Role of Wavelengths
+Sunlight is "white light," a mixture of all visible colors. Each color travels in waves of different lengths:
+*   **Red light** has longer, lazier wavelengths.
+*   **Blue and violet light** have shorter, Choppier wavelengths.
+
+Shorter wavelengths (blue and violet) are scattered more efficiently by the tiny molecules in the atmosphere. This scattered blue light is redirected in every direction, which is why the sky appears to glow blue from all angles during the day.
+
+## 3. Why Blue and Not Violet?
+Logically, since violet light has even shorter wavelengths than blue light, it is scattered even more intensely. One might expect the sky to look violet. However, we see it as blue for two main reasons:
+1.  **Solar Output:** The Sun emits significantly more blue light than violet light.
+2.  **Human Vision:** Human eyes are much more sensitive to blue than to violet. Our visual system interprets the combination of scattered violet and blue light primarily as pale blue.
+
+## 4. Why Does the Sky Change Color at Sunset?
+When the Sun is low on the horizon, the sunlight must travel through a much thicker layer of the Earth's atmosphere to reach your eyes. By the time the light gets to you, the shorter blue and violet wavelengths have been scattered away almost completely. The longer wavelengths—reds, oranges, and yellows—are able to pass through the atmosphere with less interference, creating the vibrant colors of sunrise and sunset.
+
+## 5. Other Factors
+*   **Atmospheric Composition:** The specific gases in our atmosphere (78% nitrogen, 21% oxygen) are the perfect size to scatter blue light. On other planets with different atmospheric compositions, the sky appears different (e.g., the pinkish sky of Mars due to dust).
+*   **Particles and Pollution:** Large particles like dust, water droplets, and pollutants scatter light differently (Mie scattering), which can make the sky look hazy or white instead of a deep blue.
+
+## Sources
+*   NASA Space Place: "Why Is the Sky Blue?"
+*   National Weather Service (NOAA): "The Science of Blue Skies"
+*   Britannica: "Why Is the Sky Blue?"
+*   Wikipedia: "Rayleigh Scattering"
