@@ -62,6 +62,16 @@ This repository is where I store all my data analytics, machine learning and dee
 </details>
 
 
+<details>
+    <summary><b>🤖 Building Langchain AI Agent</b></summary>
+    <ul>
+        <li>Industry: Research</li>
+        <li>Langauge: Python</li>
+        <li>Core packages: Langchain</li>
+    </ul>
+</details>
+
+
 
 <details>
     <summary><b>📈 Stock Price Prediction</b></summary>
