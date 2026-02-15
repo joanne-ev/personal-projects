@@ -41,10 +41,10 @@ This repository is where I store all my data analytics, machine learning and dee
 <details>
     <summary><b>🌏 Gross Domestic Product Analysis</b></summary>
     <ul>
-        <li>Industry: Finance</li>
+        <li>Industry: Policy</li>
         <li>Method: Analysis</li>
         <li>Langauge: Python</li>
-        <li>Core packages: Scikit-Learn, NumPy, Polars, Matplotlib, Seaborn</li>
+        <li>Core packages: Streamlit, Polars, Matplotlib, Seaborn</li>
         <li>Data source: <a href="https://datahub.io/core/gdp">https://datahub.io/core/gdp</a></li>
     </ul>
 </details>
