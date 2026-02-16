@@ -38,7 +38,7 @@ with st.expander("List of Countries/Regions for Analysis"):
     st.write(f"{options}")
 
 rcountries = st.multiselect(
-    "Countries (select up to three countries/regions from the options above or select `Randomise` to get three random selections):",
+    "Select up to three countries/regions or `Randomise` to get three random selections:",
     options,
     max_selections=3
 )
@@ -67,7 +67,7 @@ with st.expander("List of Countries/Regions for Analysis"):
     st.write(f"{options}")
 
 gdp_country = st.multiselect(
-    "Countries (select one country/region from the options above or select `Randomise` to get a random selection):",
+    "Select a country/region or `Randomise` to get a random selection:",
     options,
     max_selections=1
 )
@@ -105,9 +105,9 @@ for country in growth['Country Name'].unique().to_list():
 
     percent_change = ((max_year_value - min_year_value) / min_year_value) * 100
 
-    percent_growth[f'{country}'] = round(percent_change, 2)
+    percent_growth[f'{country}\n({str(min_year)}-{str(max_year)[-2:]})'] = round(percent_change, 2)
 
-    average_growth[f'{country}'] = round(percent_change, 2) / 10
+    average_growth[f'{country}\n({str(min_year)}-{str(max_year)[-2:]})'] = round(percent_change, 2) / 10
 
 
 percent_growth_df = pl.DataFrame(
@@ -130,10 +130,12 @@ fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(10, 4))
 sns.barplot(data=percent_growth_df, x="Country", y="Growth (%)", color='skyblue', ax=ax1)
 sns.barplot(data=average_growth_df, x="Country", y="Average Growth per Year (%)", color='skyblue', ax=ax2)
 
-ax1.set_title("Percentage Change in the Last Decade\n(varies based on country)")
+ax1.set_title("Percentage Change in the Last Decade")
 ax2.set_title("Average Annual Growth in the Last Decade")
-ax1.tick_params(axis='x', rotation=45)
-ax2.tick_params(axis='x', rotation=45)
+
+for ax in [ax1, ax2]:
+    ax.set_xlabel("Country (Year Range)")
+    ax.tick_params(axis='x', rotation=45)
 
 st.pyplot(fig)
 
