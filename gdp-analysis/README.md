@@ -22,7 +22,7 @@ Scenarios are broader questions to help you develop an end-to-end project for yo
 >
 > You will need to prepare a report that is accessible to a broad audience. It should outline your motivation, steps, findings, and conclusions.
 
-## How to run Streamlit web app
+## How to run the Streamlit web app
 
 The findings for this project, including analysis and visualisations, are in a Streamlit app in `main.py`. To run the Streamlit web app, install the `streamlit` library using either `uv add streamlit` or `pip install streamlit`.
 
